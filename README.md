@@ -9,9 +9,9 @@ The coordinates of these landmarks can be obtained through facial landmark detec
 # 68-point shape predictor
 The 68-point shape predictor is often associated with the dlib library, a popular open-source toolkit for machine learning and computer vision tasks. The shape predictor in dlib is capable of detecting and predicting the positions of 68 facial landmarks in images.
 
-Install dlib: You can install dlib using package managers like pip in Python. For example:
+1. Install dlib: You can install dlib using package managers like pip in Python. For example:
+```bash
+  pip install dlib
 
-  ### pip install dlib
-
-Download the pre-trained model: The shape predictor requires a pre-trained model file. You can download the model file from the dlib website. As of my last knowledge update in January 2022, you could find the file here: ### http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
+3. Download the pre-trained model: The shape predictor requires a pre-trained model file. You can download the model file from the dlib website. As of my last knowledge update in January 2022, you could find the file here:http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
   
