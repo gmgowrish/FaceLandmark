@@ -22,5 +22,5 @@ The 68-point shape predictor is often associated with the dlib library, a popula
   pip install opencv-python
 ```
 
-4. Download the pre-trained model: The shape predictor requires a pre-trained model file. You can download the model file from the dlib website. As of my last knowledge update in January 2022, you could find the file here:http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
+4.Download the pre-trained model: The shape predictor requires a pre-trained model file. You can download the model file from the dlib website. As of my last knowledge update in January 2022, you could find the file here:http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
   
