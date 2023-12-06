@@ -13,6 +13,14 @@ The 68-point shape predictor is often associated with the dlib library, a popula
  ```bash
   pip install dlib
 ```
+2.The imutils library provides convenience functions for various image processing tasks and simplifies the use of OpenCV in some cases
+ ```bash
+  pip install imutils
+```
+3.opencv-python is a Python binding for OpenCV (Open Source Computer Vision Library), which is a powerful and widely used open-source computer vision and machine learning library.
+ ```bash
+  pip install opencv-python
+```
 
-2. Download the pre-trained model: The shape predictor requires a pre-trained model file. You can download the model file from the dlib website. As of my last knowledge update in January 2022, you could find the file here:http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
+4. Download the pre-trained model: The shape predictor requires a pre-trained model file. You can download the model file from the dlib website. As of my last knowledge update in January 2022, you could find the file here:http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
   
