@@ -12,6 +12,7 @@ The 68-point shape predictor is often associated with the dlib library, a popula
 1. Install dlib: You can install dlib using package managers like pip in Python. For example:
  ```bash
   pip install dlib
+```bash
 
 2. Download the pre-trained model: The shape predictor requires a pre-trained model file. You can download the model file from the dlib website. As of my last knowledge update in January 2022, you could find the file here:http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
   
